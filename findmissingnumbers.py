@@ -4,7 +4,7 @@ class Solution:
             #return type: list of int
             
             #TODO: Write code below to return an int list with the solution to the prompt.
-            numbers.sort()
+            #numbers.sort()
             arr =[]
             uniqueNumbers=[]
             hv= numbers[len(numbers)-1]
