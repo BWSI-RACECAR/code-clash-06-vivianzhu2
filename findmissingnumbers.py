@@ -10,7 +10,7 @@ class Solution:
             hv= numbers[len(numbers)-1]
             output=[]
             import math
-            if len(numbers==0):
+            if len(numbers)==0:
                  return "Invalid input"
             else:
                  minimum= math.ceil(min(numbers))
